@@ -4,8 +4,8 @@
 [![PyQt5](https://img.shields.io/badge/PyQt5-GUI-orange.svg)](https://pypi.org/project/PyQt5/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Security Tool](https://img.shields.io/badge/🔐-Security%20Tool-red.svg)](https://github.com/yourusername)
-[![Christmas Release](https://img.shields.io/badge/🎁-Christmas%20Release-ff69b4.svg)](https://github.com/yourusername)
-[![Channel Telegram](https://t.me/+gsrpvshwGUc5MzI0)
+[![Christmas Release](https://img.shields.io/badge/🎁-Christmas%20Release-ff69b4.svg)]https://github.com/HackfutSec)
+[![Channel Telegram](https://t.me/+gsrpvshwGUc5MzI0)]
 ---
 
 ## 🎁 **My Christmas Gift to the Security Community!** 🎁
